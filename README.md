@@ -1,7 +1,7 @@
 hello I'm Berlin B
 
 
-- 🔭 I’m currently working on ...unemployed
+- 🔭 I’m currently working as ...unemployed
 - 🌱 I’m currently learning ...Data science
 - 🤔 I’m looking for help with ...placement support
 - 💬 Ask me about ...
